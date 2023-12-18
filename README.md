@@ -7,9 +7,9 @@
 4. [Display](#display)
 
 ## Presentation
-The city council of Besançon wants to create a network of security cameras. The aim is to minimize the cost of such a network, while ensuring optimum coverage. How many cameras will the city need to purchase to ensure optimum surveillance of public spaces?
+The aim is to establish a network of security cameras to protect all the center of a city, Besançon in this example.
 
-<div style="text-align:center"><img src="https://github.com/clementaudic/Art-Gallery-Problem_CCTV-coverage-optimization_TIPE/blob/main/besancon.png" alt="hexagon" width="150"/></div>
+<img src="https://github.com/clementaudic/Art-Gallery-Problem_CCTV-coverage-optimization_TIPE/blob/main/besancon.png" alt="hexagon" width="800"/>
 
 ## Triangulation
 
