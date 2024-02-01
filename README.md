@@ -7,11 +7,12 @@
 4. [Display](#display)
 
 ## Presentation
-The aim is to establish a network of security cameras to safeguard entirely the center of a city, Besançon in this illustratrive example.
+The aim is to establish a network of security cameras to safeguard entirely the center of a city. 
 
 <img src="https://github.com/clementaudic/Art-Gallery-Problem_CCTV-coverage-optimization_TIPE/blob/main/besancon.png" alt="hexagon" width="800"/>
 
-Besançon downtown is bounded by the horseshoe-shaped Doubs River. In order to pinpoint the streets to monitor, and in particular to distinguish them from private courtyards and parking lots, we can make use of [Strava's Global heatmap](https://www.strava.com/heatmap). Finally, we have to represent our city, this time we could use Geogebra.
+1: In this example, we want to safeguard Besançon downtown, which is bounded by the horseshoe-shaped Doubs River.
+2: In order to pinpoint the streets to monitor, and in particular to distinguish them from private courtyards and parking lots, I make use of [Strava's Global heatmap](https://www.strava.com/heatmap). [3] Finally, I have represented the city by a polygon using Geogebra.
 
 ## Triangulation
 
