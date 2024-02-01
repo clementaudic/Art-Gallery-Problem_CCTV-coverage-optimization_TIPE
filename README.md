@@ -11,7 +11,7 @@ The aim is to establish a network of security cameras to safeguard entirely the 
 
 <img src="https://github.com/clementaudic/Art-Gallery-Problem_CCTV-coverage-optimization_TIPE/blob/main/besancon.png" alt="hexagon" width="800"/>
 
-[1]: In this example, we want to safeguard Besançon downtown, which is bounded by the horseshoe-shaped Doubs River. [2]: In order to pinpoint the streets to monitor, and in particular to distinguish them from private courtyards and parking lots, I make use of [Strava's Global heatmap](https://www.strava.com/heatmap). [3]: Finally, I have represented the city by a polygon using Geogebra.
+In this example, we want to safeguard Besançon downtown, which is bounded by the horseshoe-shaped Doubs River. In order to pinpoint the streets to monitor, and in particular to distinguish them from private courtyards and parking lots, I make use of [Strava's Global heatmap](https://www.strava.com/heatmap). Finally, I have represented the city by a polygon using Geogebra.
 
 ## Triangulation
 
