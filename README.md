@@ -1,19 +1,18 @@
-# Art-Gallery-Problem_CCTV-coverage-optimization_TIPE
-
-## Table of Contents
-1. [Presentation](#presentation)
-2. [Triangulation](#triangulation)
-3. [3-Coloring](#3-coloring)
-4. [Display](#display)
+# The Art Gallery Problem expanded to a city
 
 ## Presentation
-The aim is to establish a network of security cameras to safeguard entirely the center of a city. 
+The goal is to ensure **complete surveillance of a city's downtown**, by strategically placing security cameras. For that, we will use the [Art Gallery Problem](https://en.wikipedia.org/wiki/Art_gallery_problem) principles.
 
 <img src="https://github.com/clementaudic/Art-Gallery-Problem_CCTV-coverage-optimization_TIPE/blob/main/besancon.png" alt="hexagon" width="800"/>
-1: In this example, we want to safeguard Besançon downtown, which is bounded by the horseshoe-shaped Doubs River. <br>
-2: In order to pinpoint the streets to monitor, and in particular to distinguish them from private courtyards and parking lots, I make use of [Strava's Global heatmap](https://www.strava.com/heatmap). <br>
-3: Finally, I used Geogebra to represente the city by a polygon.
+1) Let's take the city of Besançon, France as an example. <br>
+2) Complete surveillance is only needed in frequently used streets. Let's use [Strava's Global heatmap](https://www.strava.com/heatmap) to identify them. <br>
+3) We represent these streets by a polygon with holes.
 
+## Table of Contents
+1. [Triangulation](#triangulation)
+2. [3-Coloring](#3-coloring)
+3. [Display](#display)
+   
 ## Triangulation
 
 Ear clipping algorithm
