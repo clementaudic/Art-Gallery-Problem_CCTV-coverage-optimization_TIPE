@@ -4,7 +4,7 @@ The goal is to ensure **complete surveillance of a city**, by strategically plac
 
 <img src="https://github.com/clementaudic/Art-Gallery-Problem_CCTV-coverage-optimization_TIPE/blob/main/images/city.jpeg" width="800"/>
 1) Let's take the city of Besançon, France, as an example. <br>
-2) Complete surveillance is only needed in frequently used streets. Let's use [Strava's Global heatmap](https://www.strava.com/heatmap) to identify them. <br>
+2) Complete surveillance is only needed in frequently used streets. Let's use Strava's Global heatmap to identify them. <br>
 3) We represent these streets by a polygon with holes.
 
 ## Table of Contents
